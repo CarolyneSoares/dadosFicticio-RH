@@ -1,0 +1,201 @@
+Id_Funcionario,Idade,Genero,Estado Civil,Departamento,Funcao,Viagem,Salario_Mensal
+1,30,Masculino,Divorciado,Marketing,Analista de RH,Não Viaja,11200
+2,27,Masculino,Viúvo,Recursos Humanos,Cientista de Dados,Não Viaja,5948
+3,23,Não Informado,Divorciado,Vendas,Vendedor,Viaja Raramente,8648
+4,36,Não Informado,Casado,Marketing,Cientista de Dados,Viaja Raramente,11622
+5,39,Masculino,Divorciado,Data Science,Cientista de Dados,Viaja Frequentemente,14160
+6,55,Masculino,Divorciado,Engenharia,Analista de RH,Viaja Raramente,14382
+7,59,Feminino,Divorciado,Engenharia,Engenheiro de Software,Viaja Frequentemente,13465
+8,60,Feminino,Divorciado,Recursos Humanos,Analista de RH,Não Viaja,3746
+9,58,Feminino,Divorciado,Vendas,Cientista de Dados,Não Viaja,4609
+10,48,Feminino,Viúvo,Vendas,Especialista em Marketing,Viaja Frequentemente,8113
+11,32,Masculino,Solteiro,Vendas,Analista de RH,Viaja Raramente,12056
+12,30,Não Informado,Divorciado,Vendas,Analista de RH,Viaja Frequentemente,14855
+13,45,Feminino,Viúvo,Recursos Humanos,Especialista em Marketing,Viaja Frequentemente,8552
+14,33,Não Informado,Divorciado,Recursos Humanos,Analista de RH,Viaja Raramente,6384
+15,34,Masculino,Divorciado,Engenharia,Vendedor,Não Viaja,11408
+16,27,Não Informado,Solteiro,Marketing,Especialista em Marketing,Viaja Raramente,7210
+17,27,Feminino,Casado,Marketing,Cientista de Dados,Viaja Frequentemente,3782
+18,34,Não Informado,Viúvo,Engenharia,Analista de RH,Viaja Raramente,13680
+19,32,Masculino,Divorciado,Data Science,Analista de RH,Não Viaja,11951
+20,26,Não Informado,Solteiro,Engenharia,Cientista de Dados,Viaja Frequentemente,5004
+21,40,Feminino,Viúvo,Marketing,Analista de RH,Não Viaja,8426
+22,28,Masculino,Casado,Recursos Humanos,Vendedor,Viaja Raramente,9930
+23,23,Não Informado,Viúvo,Marketing,Analista de RH,Viaja Frequentemente,10531
+24,35,Feminino,Solteiro,Engenharia,Cientista de Dados,Viaja Raramente,13452
+25,49,Não Informado,Viúvo,Engenharia,Cientista de Dados,Não Viaja,12322
+26,22,Masculino,Viúvo,Data Science,Engenheiro de Software,Viaja Raramente,2627
+27,49,Feminino,Divorciado,Marketing,Analista de RH,Viaja Raramente,6629
+28,50,Feminino,Divorciado,Data Science,Vendedor,Viaja Raramente,8293
+29,23,Masculino,Divorciado,Vendas,Engenheiro de Software,Viaja Raramente,13531
+30,31,Não Informado,Divorciado,Engenharia,Engenheiro de Software,Viaja Raramente,9484
+31,48,Feminino,Viúvo,Engenharia,Especialista em Marketing,Viaja Raramente,3917
+32,25,Feminino,Casado,Data Science,Especialista em Marketing,Não Viaja,11817
+33,40,Feminino,Divorciado,Data Science,Engenheiro de Software,Não Viaja,5409
+34,45,Masculino,Divorciado,Data Science,Especialista em Marketing,Viaja Frequentemente,4613
+35,48,Feminino,Casado,Data Science,Analista de RH,Viaja Frequentemente,7233
+36,51,Feminino,Divorciado,Marketing,Cientista de Dados,Viaja Frequentemente,12590
+37,29,Não Informado,Divorciado,Marketing,Cientista de Dados,Viaja Raramente,9421
+38,34,Masculino,Divorciado,Marketing,Analista de RH,Não Viaja,7036
+39,49,Feminino,Divorciado,Engenharia,Cientista de Dados,Viaja Frequentemente,11310
+40,23,Masculino,Viúvo,Recursos Humanos,Vendedor,Viaja Raramente,3001
+41,24,Masculino,Casado,Marketing,Engenheiro de Software,Viaja Raramente,13979
+42,28,Não Informado,Viúvo,Engenharia,Analista de RH,Viaja Frequentemente,12172
+43,44,Feminino,Casado,Recursos Humanos,Engenheiro de Software,Viaja Raramente,12062
+44,57,Não Informado,Divorciado,Vendas,Especialista em Marketing,Não Viaja,3238
+45,54,Não Informado,Viúvo,Recursos Humanos,Especialista em Marketing,Não Viaja,10985
+46,25,Masculino,Divorciado,Vendas,Especialista em Marketing,Não Viaja,12957
+47,22,Não Informado,Casado,Vendas,Cientista de Dados,Viaja Frequentemente,3922
+48,46,Masculino,Casado,Recursos Humanos,Especialista em Marketing,Não Viaja,4898
+49,40,Masculino,Viúvo,Data Science,Analista de RH,Viaja Frequentemente,14573
+50,26,Masculino,Divorciado,Engenharia,Engenheiro de Software,Viaja Frequentemente,10499
+51,44,Masculino,Viúvo,Marketing,Cientista de Dados,Viaja Raramente,11981
+52,56,Não Informado,Solteiro,Data Science,Especialista em Marketing,Não Viaja,11370
+53,23,Não Informado,Viúvo,Marketing,Vendedor,Viaja Frequentemente,4825
+54,33,Masculino,Solteiro,Marketing,Vendedor,Não Viaja,6234
+55,33,Masculino,Solteiro,Marketing,Especialista em Marketing,Viaja Raramente,8715
+56,31,Feminino,Viúvo,Recursos Humanos,Especialista em Marketing,Não Viaja,6830
+57,29,Feminino,Casado,Marketing,Vendedor,Não Viaja,7490
+58,23,Não Informado,Solteiro,Vendas,Analista de RH,Viaja Frequentemente,7216
+59,54,Masculino,Casado,Engenharia,Engenheiro de Software,Viaja Raramente,14774
+60,46,Feminino,Solteiro,Data Science,Analista de RH,Viaja Frequentemente,14771
+61,52,Masculino,Solteiro,Recursos Humanos,Cientista de Dados,Viaja Frequentemente,4726
+62,36,Masculino,Solteiro,Engenharia,Vendedor,Viaja Frequentemente,11258
+63,33,Feminino,Solteiro,Marketing,Cientista de Dados,Viaja Frequentemente,4066
+64,42,Não Informado,Viúvo,Engenharia,Engenheiro de Software,Viaja Raramente,3033
+65,29,Feminino,Casado,Recursos Humanos,Vendedor,Viaja Raramente,13490
+66,34,Não Informado,Solteiro,Engenharia,Vendedor,Viaja Raramente,7766
+67,23,Feminino,Divorciado,Vendas,Vendedor,Não Viaja,12850
+68,26,Feminino,Casado,Engenharia,Especialista em Marketing,Viaja Raramente,6175
+69,45,Não Informado,Casado,Marketing,Especialista em Marketing,Viaja Frequentemente,10443
+70,58,Masculino,Casado,Marketing,Cientista de Dados,Não Viaja,7000
+71,59,Não Informado,Divorciado,Engenharia,Cientista de Dados,Não Viaja,12149
+72,43,Feminino,Divorciado,Vendas,Especialista em Marketing,Não Viaja,6553
+73,39,Masculino,Viúvo,Marketing,Especialista em Marketing,Viaja Frequentemente,9882
+74,28,Feminino,Casado,Engenharia,Engenheiro de Software,Viaja Raramente,7955
+75,51,Masculino,Divorciado,Recursos Humanos,Engenheiro de Software,Viaja Raramente,12663
+76,44,Feminino,Casado,Vendas,Cientista de Dados,Viaja Raramente,8254
+77,26,Masculino,Solteiro,Vendas,Vendedor,Viaja Frequentemente,6260
+78,39,Não Informado,Solteiro,Recursos Humanos,Analista de RH,Viaja Frequentemente,5066
+79,38,Feminino,Viúvo,Recursos Humanos,Analista de RH,Não Viaja,13286
+80,38,Feminino,Casado,Recursos Humanos,Cientista de Dados,Viaja Raramente,4709
+81,38,Feminino,Solteiro,Data Science,Especialista em Marketing,Viaja Frequentemente,14840
+82,37,Masculino,Casado,Marketing,Cientista de Dados,Viaja Frequentemente,5976
+83,42,Masculino,Casado,Vendas,Analista de RH,Não Viaja,3896
+84,40,Masculino,Viúvo,Data Science,Vendedor,Não Viaja,13266
+85,34,Não Informado,Divorciado,Data Science,Cientista de Dados,Viaja Raramente,12605
+86,38,Não Informado,Casado,Recursos Humanos,Analista de RH,Não Viaja,14606
+87,33,Feminino,Divorciado,Data Science,Engenheiro de Software,Viaja Frequentemente,10586
+88,22,Feminino,Solteiro,Marketing,Cientista de Dados,Viaja Raramente,14620
+89,52,Não Informado,Divorciado,Data Science,Vendedor,Não Viaja,10569
+90,36,Feminino,Solteiro,Data Science,Engenheiro de Software,Viaja Raramente,3592
+91,60,Feminino,Viúvo,Vendas,Engenheiro de Software,Viaja Frequentemente,8231
+92,27,Não Informado,Solteiro,Engenharia,Especialista em Marketing,Viaja Frequentemente,10455
+93,33,Não Informado,Viúvo,Data Science,Vendedor,Viaja Raramente,4615
+94,34,Masculino,Casado,Marketing,Engenheiro de Software,Viaja Raramente,14824
+95,46,Masculino,Casado,Engenharia,Cientista de Dados,Não Viaja,3875
+96,57,Feminino,Viúvo,Vendas,Analista de RH,Viaja Raramente,9947
+97,36,Masculino,Divorciado,Recursos Humanos,Analista de RH,Viaja Frequentemente,5435
+98,57,Feminino,Divorciado,Data Science,Vendedor,Não Viaja,3462
+99,29,Masculino,Viúvo,Recursos Humanos,Especialista em Marketing,Viaja Frequentemente,2805
+100,37,Não Informado,Viúvo,Data Science,Cientista de Dados,Viaja Raramente,6476
+101,35,Feminino,Casado,Engenharia,Analista de RH,Não Viaja,12223
+102,51,Não Informado,Casado,Data Science,Especialista em Marketing,Viaja Frequentemente,9986
+103,25,Masculino,Solteiro,Data Science,Cientista de Dados,Não Viaja,2578
+104,44,Masculino,Viúvo,Recursos Humanos,Especialista em Marketing,Não Viaja,12812
+105,52,Não Informado,Viúvo,Vendas,Especialista em Marketing,Não Viaja,4097
+106,32,Feminino,Solteiro,Engenharia,Analista de RH,Não Viaja,9792
+107,47,Feminino,Divorciado,Engenharia,Vendedor,Não Viaja,11791
+108,52,Feminino,Casado,Marketing,Cientista de Dados,Não Viaja,8954
+109,53,Não Informado,Viúvo,Data Science,Vendedor,Viaja Frequentemente,2793
+110,34,Feminino,Solteiro,Marketing,Especialista em Marketing,Viaja Raramente,14948
+111,26,Não Informado,Casado,Vendas,Cientista de Dados,Viaja Frequentemente,4351
+112,58,Masculino,Viúvo,Marketing,Vendedor,Não Viaja,5262
+113,31,Feminino,Solteiro,Engenharia,Analista de RH,Viaja Raramente,14828
+114,60,Masculino,Casado,Data Science,Vendedor,Viaja Frequentemente,2894
+115,48,Masculino,Solteiro,Vendas,Analista de RH,Não Viaja,6095
+116,60,Não Informado,Solteiro,Recursos Humanos,Engenheiro de Software,Viaja Raramente,13952
+117,40,Masculino,Casado,Marketing,Engenheiro de Software,Viaja Frequentemente,7809
+118,28,Masculino,Viúvo,Marketing,Especialista em Marketing,Viaja Raramente,9853
+119,28,Não Informado,Viúvo,Recursos Humanos,Especialista em Marketing,Não Viaja,8181
+120,54,Masculino,Divorciado,Engenharia,Cientista de Dados,Não Viaja,14987
+121,25,Não Informado,Viúvo,Data Science,Vendedor,Não Viaja,9753
+122,50,Masculino,Viúvo,Engenharia,Analista de RH,Não Viaja,5765
+123,57,Não Informado,Solteiro,Recursos Humanos,Engenheiro de Software,Não Viaja,5243
+124,42,Não Informado,Divorciado,Vendas,Analista de RH,Viaja Raramente,8023
+125,54,Não Informado,Solteiro,Data Science,Especialista em Marketing,Viaja Raramente,8680
+126,41,Masculino,Divorciado,Recursos Humanos,Analista de RH,Viaja Raramente,9179
+127,42,Masculino,Solteiro,Marketing,Engenheiro de Software,Viaja Frequentemente,10614
+128,43,Masculino,Solteiro,Engenharia,Analista de RH,Viaja Frequentemente,10724
+129,32,Não Informado,Casado,Data Science,Analista de RH,Viaja Frequentemente,12417
+130,48,Não Informado,Viúvo,Engenharia,Analista de RH,Viaja Frequentemente,14403
+131,42,Masculino,Solteiro,Data Science,Analista de RH,Não Viaja,8409
+132,54,Masculino,Viúvo,Recursos Humanos,Vendedor,Viaja Frequentemente,13260
+133,45,Masculino,Viúvo,Engenharia,Analista de RH,Não Viaja,14598
+134,31,Não Informado,Solteiro,Vendas,Vendedor,Viaja Frequentemente,8598
+135,22,Masculino,Casado,Vendas,Engenheiro de Software,Não Viaja,5699
+136,31,Feminino,Viúvo,Marketing,Especialista em Marketing,Viaja Raramente,6316
+137,32,Masculino,Viúvo,Engenharia,Analista de RH,Viaja Raramente,12193
+138,43,Não Informado,Casado,Marketing,Engenheiro de Software,Viaja Raramente,4272
+139,38,Masculino,Divorciado,Marketing,Vendedor,Viaja Frequentemente,13654
+140,30,Masculino,Divorciado,Engenharia,Vendedor,Viaja Raramente,9245
+141,48,Feminino,Casado,Recursos Humanos,Engenheiro de Software,Viaja Frequentemente,14501
+142,23,Não Informado,Solteiro,Engenharia,Cientista de Dados,Não Viaja,14950
+143,24,Feminino,Casado,Vendas,Engenheiro de Software,Viaja Raramente,12687
+144,35,Feminino,Solteiro,Engenharia,Cientista de Dados,Viaja Frequentemente,6861
+145,38,Feminino,Viúvo,Engenharia,Engenheiro de Software,Não Viaja,13551
+146,48,Feminino,Casado,Marketing,Engenheiro de Software,Não Viaja,8424
+147,43,Feminino,Viúvo,Vendas,Cientista de Dados,Não Viaja,8869
+148,43,Masculino,Divorciado,Vendas,Cientista de Dados,Viaja Frequentemente,7469
+149,47,Feminino,Divorciado,Vendas,Engenheiro de Software,Não Viaja,11915
+150,54,Feminino,Divorciado,Data Science,Engenheiro de Software,Viaja Raramente,10462
+151,22,Não Informado,Divorciado,Engenharia,Cientista de Dados,Viaja Raramente,12215
+152,43,Masculino,Casado,Engenharia,Vendedor,Viaja Frequentemente,13349
+153,40,Masculino,Divorciado,Vendas,Especialista em Marketing,Não Viaja,14486
+154,55,Feminino,Casado,Data Science,Cientista de Dados,Viaja Raramente,3465
+155,46,Feminino,Divorciado,Marketing,Vendedor,Não Viaja,10755
+156,44,Não Informado,Casado,Recursos Humanos,Especialista em Marketing,Viaja Raramente,13026
+157,57,Feminino,Solteiro,Marketing,Vendedor,Viaja Raramente,8006
+158,49,Feminino,Divorciado,Data Science,Cientista de Dados,Viaja Frequentemente,14378
+159,55,Não Informado,Divorciado,Marketing,Especialista em Marketing,Viaja Frequentemente,12347
+160,43,Feminino,Divorciado,Engenharia,Especialista em Marketing,Viaja Raramente,10152
+161,48,Não Informado,Viúvo,Vendas,Vendedor,Viaja Frequentemente,12949
+162,56,Feminino,Divorciado,Engenharia,Engenheiro de Software,Viaja Raramente,6696
+163,24,Não Informado,Solteiro,Vendas,Especialista em Marketing,Viaja Frequentemente,7877
+164,35,Masculino,Divorciado,Data Science,Analista de RH,Viaja Frequentemente,9718
+165,51,Feminino,Viúvo,Marketing,Especialista em Marketing,Viaja Frequentemente,7380
+166,42,Feminino,Divorciado,Engenharia,Vendedor,Não Viaja,12901
+167,39,Não Informado,Solteiro,Data Science,Engenheiro de Software,Viaja Frequentemente,6144
+168,30,Feminino,Casado,Engenharia,Vendedor,Não Viaja,5462
+169,23,Feminino,Solteiro,Vendas,Analista de RH,Não Viaja,2871
+170,43,Masculino,Solteiro,Marketing,Engenheiro de Software,Viaja Raramente,14921
+171,34,Feminino,Solteiro,Vendas,Cientista de Dados,Não Viaja,12432
+172,22,Não Informado,Divorciado,Engenharia,Analista de RH,Viaja Raramente,2868
+173,25,Feminino,Casado,Engenharia,Engenheiro de Software,Viaja Raramente,8194
+174,37,Não Informado,Divorciado,Data Science,Vendedor,Viaja Frequentemente,8498
+175,25,Não Informado,Viúvo,Marketing,Cientista de Dados,Viaja Frequentemente,10523
+176,40,Masculino,Solteiro,Data Science,Especialista em Marketing,Viaja Raramente,13067
+177,38,Feminino,Divorciado,Recursos Humanos,Analista de RH,Viaja Frequentemente,14503
+178,58,Masculino,Solteiro,Data Science,Engenheiro de Software,Não Viaja,14860
+179,33,Feminino,Solteiro,Marketing,Analista de RH,Viaja Frequentemente,4953
+180,56,Feminino,Divorciado,Marketing,Cientista de Dados,Viaja Frequentemente,6998
+181,24,Masculino,Solteiro,Marketing,Vendedor,Viaja Raramente,3354
+182,30,Masculino,Viúvo,Engenharia,Cientista de Dados,Viaja Frequentemente,14414
+183,37,Masculino,Casado,Engenharia,Analista de RH,Viaja Raramente,9460
+184,36,Não Informado,Viúvo,Vendas,Especialista em Marketing,Viaja Raramente,9158
+185,39,Feminino,Divorciado,Vendas,Engenheiro de Software,Viaja Raramente,10916
+186,28,Não Informado,Divorciado,Marketing,Analista de RH,Viaja Raramente,9950
+187,38,Masculino,Divorciado,Data Science,Especialista em Marketing,Viaja Raramente,8653
+188,44,Masculino,Divorciado,Data Science,Engenheiro de Software,Viaja Raramente,8515
+189,23,Feminino,Solteiro,Marketing,Especialista em Marketing,Viaja Frequentemente,5371
+190,26,Feminino,Casado,Marketing,Engenheiro de Software,Viaja Raramente,10525
+191,43,Masculino,Divorciado,Marketing,Vendedor,Viaja Frequentemente,10577
+192,56,Não Informado,Solteiro,Marketing,Cientista de Dados,Viaja Raramente,12389
+193,37,Não Informado,Solteiro,Recursos Humanos,Especialista em Marketing,Viaja Frequentemente,3277
+194,47,Não Informado,Viúvo,Marketing,Especialista em Marketing,Não Viaja,4844
+195,45,Masculino,Viúvo,Data Science,Vendedor,Não Viaja,14667
+196,40,Não Informado,Divorciado,Engenharia,Especialista em Marketing,Viaja Raramente,14484
+197,47,Masculino,Solteiro,Data Science,Vendedor,Viaja Frequentemente,11544
+198,27,Masculino,Viúvo,Vendas,Especialista em Marketing,Viaja Frequentemente,6515
+199,29,Não Informado,Divorciado,Recursos Humanos,Cientista de Dados,Viaja Frequentemente,12673
+200,34,Feminino,Divorciado,Data Science,Especialista em Marketing,Viaja Frequentemente,2947
