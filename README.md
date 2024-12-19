@@ -13,7 +13,7 @@ O dataset contém informações fictícias relacionadas a funcionários, incluin
 - **Salário Mensal**  
 
 ## Sobre o Artigo  
-Você pode acessar o artigo completo no meu **[Medium](<link para o Medium>)**.  
+Você pode acessar o artigo completo no meu **[Medium](<https://medium.com/@carolynerscosta/passo-a-passo-para-criar-temas-no-power-bi-usando-o-theme-generator-17c859b49218>)**.  
 
 ---
 
